@@ -10,6 +10,16 @@ public class Main {
 
     public static void main(String[] args) {
         
+	// Comments to check repo connection and permissions
+	    // Sam Cain - Check
+	    // Will Saint -
+	    // Mathew Sjostrom -
+	    // Josh Whaley -
+	    // Madison Lathem -
+	    
+	    
+	    
+	    
         // test database connectivity; get DAOs
 
         DAOFactory daoFactory = new DAOFactory("tas.jdbc");
