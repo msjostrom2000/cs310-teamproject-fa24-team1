@@ -10,13 +10,14 @@ public class Main {
 
     public static void main(String[] args) {
         
-	// Comments to check repo connection and permissions
-	    // Sam Cain - Check
-	    // Will Saint - Check
-	    // Mathew Sjostrom -
-	    // Josh Whaley -
-	    // Madison Lathem -
-	    
+	/**
+	 * Comments to check repo connection and permissions
+	 * Sam Cain - Check
+	 * Will Saint - Check
+	 * Mathew Sjostrom -
+	 * Josh Whaley -
+	 * Madison Lathem -
+	 */   
 	    
 	    
 	    
