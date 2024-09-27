@@ -12,7 +12,7 @@ public class Main {
         
 	// Comments to check repo connection and permissions
 	    // Sam Cain - Check
-	    // Will Saint -
+	    // Will Saint - Check
 	    // Mathew Sjostrom -
 	    // Josh Whaley -
 	    // Madison Lathem -
