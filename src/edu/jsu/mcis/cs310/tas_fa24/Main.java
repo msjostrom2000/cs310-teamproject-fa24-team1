@@ -12,7 +12,7 @@ public class Main {
         
 	/**
 	 * Comments to check repo connection and permissions
-	 * Sam Cain - Check
+	 * Sam Cain - Check (testing netbeans push/pull)
 	 * Will Saint - Check testing 3
 	 * Mathew Sjostrom -
 	 * Josh Whaley -
