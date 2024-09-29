@@ -16,7 +16,7 @@ public class Main {
 	 * Will Saint - Check testing 3
 	 * Mathew Sjostrom -
 	 * Josh Whaley - Testing push/pull
-	 * Madison Lathem -
+	 * Madison Latham - Testing push/pull
 	 */
 	
 	    
