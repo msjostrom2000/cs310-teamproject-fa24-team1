@@ -15,7 +15,7 @@ public class Main {
 	 * Sam Cain - Check (testing netbeans push/pull)
 	 * Will Saint - Check testing 3
 	 * Mathew Sjostrom -
-	 * Josh Whaley -
+	 * Josh Whaley - Testing push/pull
 	 * Madison Lathem -
 	 */
 	
